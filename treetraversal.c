@@ -59,5 +59,7 @@ int main()
 	printf("Postorder Traversal: ");
 	postorder(root);
 	printf("\n");
+	return 0;
 }
+
 
